@@ -1,5 +1,5 @@
 # test
 
-{@import: ADD.md} 
+{@import: ADD.MD} 
 
 [include](ADD.MD)

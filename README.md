@@ -1,7 +1,6 @@
 # test
 
 
-``` Ruby
-class MyClass
-end
+```rb
+# path/to/your/file.rb
 ```

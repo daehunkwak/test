@@ -1,3 +1,3 @@
 # test
 
-include(/TmaxSoftOfficial/HyperFrameOE-About/blob/master/ServiceLevel.md)
+{@import: https://github.com/TmaxSoftOfficial/HyperFrameOE-About/blob/master/ServiceLevel.md} 

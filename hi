@@ -1,1 +1,1 @@
-{% include_relative ADD.MD %}
+[embedmd]:# (ADD.MD)

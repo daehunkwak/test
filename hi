@@ -1,1 +1,1 @@
-{: include ADD.MD}
+{% include_relative ADD.MD %}
